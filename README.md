@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel K.
 - 👀 I’m interested in software development such as react, nodejs, golang, python and databases.
-- 🌱 I’m currently learning frontend & backend development.
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... daniel.dotping@gmail.com
 
