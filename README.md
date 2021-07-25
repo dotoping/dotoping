@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel K.
+- 👋 Hi, I’m Daniel Kang in Melbourne.
 - 👀 I’m interested in software development such as react, nodejs, golang, python and databases.
 
 - 💞️ I’m looking to collaborate on ...
