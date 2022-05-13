@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Daniel Kang in Melbourne.
-- 👀 I’m interested in software development such as react, nodejs, typescript, golang, python and databases.
+- 👋 Hi, I’m Daniel Kang and live in Melbourne Australia.
+- 👀 
 - Tech Stack = [React, Javascript, HTML, CSS, Redux, TypeScript]
 
 - 📫 How to reach me ... daniel.dotping@gmail.com
